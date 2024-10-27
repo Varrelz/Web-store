@@ -15,22 +15,20 @@ const webD = 'Order Via Website'
 const products = [
     {
         id: 1,
-        name: "Panel Pterodactyl",
+        name: "1000 Followers Tiktok",
         price: 7000,
-        image: "https://telegra.ph/file/1679b6df9fbe3e697c0cf.jpg",
+        image: "https://files.catbox.moe/0qvmlc.jpg",
         description: "Panel Unli Murah, Kualitas Istimewah.",
-        author: "ShannModerz",
+        author: "Varrel",
         features: [
-            "Unlimited",
-            "Server Privat",
-            "Garansi 15D",
-            "Max Durasi 30D"
+            "Permanent"
+            "Garansi 7 Hari"
         ],
         paymentMethods: [
              {
                logo: wa,
                description: waD,
-               link: 'https://link-wa'
+               link: 'https://link-wa-'
             },
         ]
     },
