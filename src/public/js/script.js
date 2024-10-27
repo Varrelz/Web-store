@@ -52,144 +52,126 @@ const products = [
     },
     {
         id: 10,
-        name: "SC BOT LENWY",
-        price: 25000,
-        image: "https://telegra.ph/file/8d5874daf03be2a5797ec.jpg",
-        description: "Sc bot whatsapp dengan type case, Menggunakan whiskey baileys",
-        author: "Lenwy",
+        name: "1000 Likes tiktok",
+        price: 3000,
+        image: "https://files.catbox.moe/85g60m.jpg",
+        description: "Likes Tiktok murah berkualitas",
+        author: "Varrel",
         features: [
-            "Pairing Code",
-            "Free Apikey",
-            "Setmenu",
-            "Button Menu",
-            "RPG Dengan Story (perkembangan)",
-            "Selengkapnya Tanyakan Saja"
+            "Permanent",
         ],
         paymentMethods: [
              {
                logo: wa,
                description: waD,
-               link: 'https://wa.me/6283829814737'
+               link: 'https://wa.me/628893609279?text=Bang+order+1000+likes+tiktok'
             },
             {
                 logo: tele,
                 description: teleD,
-                link: 'https://t.me/ilenwy'
+                link: 'https://t.me/XiaoYuTierSSS'
             },
         ]
     },
     {
         id: 12,
-        name: "VPS ISP DIGITAL OCEAN",
-        price: 20000,
-        image: "https://telegra.ph/file/aa107831e82ec120fb062.png",
-        description: "20k-75k Bisa untuk buat panel pterodactyl, WHM, Dll",
-        author: "ISNZOFC STORE",
+        name: "2000 Likes tiktok",
+        price: 6000,
+        image: "https://files.catbox.moe/31r5is.jpg",
+        description: "Likes tiktok murah berkualitas",
+        author: "Varrel",
         features: [
-            "Free Instsll Panel Pterodactyl"
+            "Permanent"
         ],
         paymentMethods: [
              {
                logo: wa,
                description: waD,
-               link: 'https://wa.me/62895326036822'
+               link: 'https://wa.me/628893609279?text=Bang+order+2000+likes+tiktok'
             },
             {
                 logo: tele,
                 description: teleD,
-                link: 'https://t.me/IsnzOfc'
+                link: 'https://t.me/XiaoYuTierSSS'
             },
             {
                 logo: ig,
                 description: igD,
-                link: 'https://instagram.com/isna.zip'
+                link: 'https://instagram.com/relllzzz0928'
             }
         ]
     },
     {
         id: 3,
-        name: "Sc GisellBot",
-        price: 40000,
+        name: "20.000 Views tiktok",
+        price: 3000,
         image: "https://telegra.ph/file/4c96073370c1f31e015c1.jpg",
-        description: "blablabla",
-        author: "Liiixd_",
+        description: "Views murah berkualitas",
+        author: "Varrel",
         features: [
-            "Kelebihan banyak: v"
+            "Permanent"
         ],
         paymentMethods: [
              {
                logo: wa,
                description: waD,
-               link: 'https://wa.me/6283134213550'
+               link: 'https://wa.me/628893609279?text=Bang+order+20.000+Views+tiktok'
             },
             {
                logo: ig,
                description: igD,
-               link: 'https://www.instagram.com/aliilaid_/?utm_source=other&utm_medium=copy_link&utm_content=sc+gisellbot?'
-            },
-            {
-               logo: fb,
-               description: fbD,
-               link: 'https://www.facebook.com'
+               link: 'https://www.instagram.com/relllzzz0928'
             },
         ]
     },
     {
         id: 5,
-        name: "Nokos Virtual All Country",
-        price: 7000,
+        name: "40.000 Views tiktok",
+        price: 6000,
         image: "https://telegra.ph/file/1aa5f3490241098746a03.jpg",
-        description: "Sell Nomor kosong virtual OTP All country Murah Harga 7k-15k Testi Contact me aja dan bisa request negara",
-        author: "ErerexID Chx",
+        description: "Views murah berkualitas",
+        author: "Varrel",
         features: [
-            "Bisa Di Pakai"
+            "Permanent"
         ],
         paymentMethods: [
              {
                logo: wa,
                description: waD,
-               link: 'https://wa.me/62895342022385'
+               link: 'https://wa.me/628893609279?text=Bang+order+40.000+views+tiktok'
             },
             {
                 logo: tele,
                 description: teleD,
-                link: 'https://t.me/ErerexIDOfc'
+                link: 'https://t.me/XiaoYuTierSSS'
             },
             {
                 logo: ig,
                 description: igD,
-                link: 'https://instagram.com/ramzy_chx'
-            },
-            {
-                logo: email,
-                description: emailD,
-                link: 'mailto:ererexidnewbie21@yahoo.com'
+                link: 'https://instagram.com/relllzzz0928'
             },
         ]
     },
     {
         id: 4,
-        name: "SC KOMARI_BOTZ",
-        price: 65000,
+        name: "Nokos Wa indonesia (+62)",
+        price: 8000,
         image: "https://telegra.ph/file/925f1006a95e568bb6b1b.jpg",
-        description: "Harga Bisa Nego",
-        author: "Ditz Offc",
+        description: "Verif 1x, nomor dibeli dari web lain",
+        author: "Varrel",
         features: [
-            "Function SendButton",
-            "Hd Video",
-            "Fast Respon",
-            "Free Update"
+            "Murah",
         ],
         paymentMethods: [
              {
                logo: wa,
                description: waD,
-               link: 'https://wa.me/6285717062467'
+               link: 'https://wa.me/628893609279?text=Bang+beli+nokos+indoesia'
             },
             {
                 logo: tele,
                 description: teleD,
-                link: 'https://t.me/Ditzstore236'
+                link: 'https://t.me/XiaoYuTierSSS'
             },
         ]
     },
