@@ -156,7 +156,7 @@ const products = [
         id: 4,
         name: "Nokos Wa indonesia (+62)",
         price: 8000,
-        image: "https://telegra.ph/file/925f1006a95e568bb6b1b.jpg",
+        image: "https://files.catbox.moe/0e9wy7.jpg",
         description: "Verif 1x, nomor dibeli dari web lain",
         author: "Varrel",
         features: [
@@ -177,29 +177,29 @@ const products = [
     },
     {
         id: 11,
-        name: "VPS DO & PANEL PRIVAT",
-        price: 2000,
-        image: "https://telegra.ph/file/6998249dbf2154f63df33.jpg",
-        description: "Yuki menyediakan panel privat dan VPS",
-        author: "Yuki Host",
+        name: "Nokos Whatsapp Philippines ",
+        price: 12.000,
+        image: "https://files.catbox.moe/k9asur.jpg",
+        description: "Verif 1x, nomor ini dibeli dari web lain",
+        author: "Varrel",
         features: [
-            "Terjamin Kualitas"
+            "Murah"
         ],
         paymentMethods: [
              {
                logo: wa,
                description: waD,
-               link: 'https://wa.me/6288229683561'
+               link: 'https://wa.me/628893609279?text=Bang+beli+nokos+philippines'
             },
             {
                 logo: tele,
                 description: teleD,
-                link: 'https://t.me/SariiRooti'
+                link: 'https://t.me/XiaoYuTierSSS'
             },
             {
                 logo: ig,
                 description: igD,
-                link: 'https://instagram.com/ammarbn27'
+                link: 'https://instagram.com/relllzzz0928'
             }
         ]
     },
@@ -630,77 +630,6 @@ TOTAL FEATURE 600+`,
             "Sc aman"
         ],
         paymentMethods: [
-             {
-               logo: wa,
-               description: waD,
-               link: 'https://wa.me/6282253595771'
-            },
-            {
-               logo: tele,
-               description: teleD,
-               link: 'https://t.me/valiant29'
-            },
-        ]
-    },
-    {
-        id: 25,
-        name: "ADP",
-        price: 5000,
-        image: "https://telegra.ph/file/e166a815f4211d5ce6757.jpg",
-        description: "Admin panel spek gg dengan harga yang murah",
-        author: "zen",
-        features: [
-            "No Lag"
-        ],
-        paymentMethods: [
-             {
-               logo: wa,
-               description: waD,
-               link: 'https://wa.me/6288226340200'
-            },
-        ]
-    },
-    {
-        id: 26,
-        name: "Netflix Premium",
-        price: 30000,
-        image: "https://telegra.ph/file/d320b84f1154ea08535d4.jpg",
-        description: "Akun netflix premium murah 1bulan",
-        author: "MolarAzka Tore",
-        features: [
-            "Lebih murah dan terjangkau"
-        ],
-        paymentMethods: [
-             {
-               logo: wa,
-               description: waD,
-               link: 'https://wa.me/6282329141154'
-            },
-            {
-              logo: email,
-              description: emailD,
-              link: 'mailto:bussidazka@gmail.com'
-            }
-        ]
-    },
-    {
-        id: 27,
-        name: "SCRIPT NOVA-TECH",
-        price: 40000,
-        image: "https://telegra.ph/file/6be4af7f7dd2a3a7f84a7.jpg",
-        description: "Script bot wa free update dan fix simple fitur",
-        author: "SANZMD",
-        features: [
-            "Free Update",
-            "Free Fix Keamanan Script",
-            "Simple Dan Size Ringan"
-        ],
-        paymentMethods: [
-             {
-               logo: wa,
-               description: waD,
-               link: 'https://wa.me/6288706430660'
-            },
         ]
     },
 ];
