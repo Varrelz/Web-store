@@ -18,7 +18,7 @@ const products = [
         name: "1000 Followers Tiktok",
         price: 7000,
         image: "https://files.catbox.moe/0qvmlc.jpg",
-        description: "Panel Unli Murah, Kualitas Istimewah.",
+        description: "Followers murah berkualitas",
         author: "Varrel",
         features: [
             "Permanent"
@@ -27,29 +27,26 @@ const products = [
         paymentMethods: [
              {
                logo: wa,
-               description: waD,
-               link: 'https://link-wa-'
+               description: Jangan Telepon & Spam,
+               link: 'https://wa.me/628893609279?text=Bang+order+1000+followers+tiktok'
             },
         ]
     },
     {
         id: 2,
-        name: "SC XBOT V1.6",
-        price: 40000,
-        image: "https://telegra.ph/file/28de0fcf83d3aa1ab0733.png",
-        description: "script bot whatsapp tipe case menggunakan baileys whiskeysocket original versi terbaru.",
-        author: "ShannModerz",
+        name: "2000 Followers tiktok",
+        price: 14.000,
+        image: "https://files.catbox.moe/jwqy7w.jpg",
+        description: "Followers murah berkualitas.",
+        author: "Varrel",
         features: [
-            "Pairing Code",
-            "Fitur 600+",
-            "Full Button",
-            "Banyak Fitur Langkah"
+            "Permanent",
         ],
         paymentMethods: [
             {
                logo: wa,
                description: waD,
-               link: 'https://link-wa'
+               link: 'https://wa.me/628893609279?text=Bang+order+2000+followers+tiktok'
             },
         ]
     },
